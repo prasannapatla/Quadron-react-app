@@ -1,0 +1,1 @@
+web: gunicorn djangoReactTutorial.wsgi --log-file -
